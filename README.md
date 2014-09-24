@@ -13,6 +13,9 @@ So you will get a notification every 900 seconds
 
 example 2: Let's say a process cpu usage is 300%.    75/25 =3.2 == 3     so the urgency level is 3 , you will get notifications every 2 minutes!
 
+![](screenshot/example.png)
+
+
 I hope you like it, it was very helpful to me.
 
 Chears
