@@ -18,4 +18,4 @@ example 2: Let's say a process cpu usage is 300%.    75/25 =3.2 == 3     so the 
 
 I hope you like it, it was very helpful to me.
 
-Chears
+Cheers
